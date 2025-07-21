@@ -1,68 +1,28 @@
-# CodeIgniter 4 Application Starter
+## UAS - PEMROGRAMAN WEB (USIA)
 
-## What is CodeIgniter?
+Nama : Ridwan Mubarok
+NIM  : 230401010053
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+## PREVIEW
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+**AUTHENTICATION**
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/1d3e5a8b-a9ab-4c7b-b386-7bc1d1a2f402" />
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+**PUBLIC (Landing)**
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/9883c075-9b01-44ed-825f-4781ae9ac774" />
 
-You can read the [user guide](https://codeigniter.com/user_guide/)
-corresponding to the latest version of the framework.
+**ADMIN**
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/bfa73402-4eed-4ff3-9e2b-732e42e47a3c" />
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/4154a497-14a2-46b5-857e-500c52c3326d" />
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/571f4064-d537-43a3-948b-dbb68f3439ed" />
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/865645a2-44f3-4252-91ae-1ace74ac7207" />
+<img width="1916" height="990" alt="image" src="https://github.com/user-attachments/assets/604c8d11-6e30-458a-8e48-f4ec0ca4e157" />
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/fc0250f1-af55-44d9-9090-1bf31765c0dc" />
+<img width="1918" height="989" alt="image" src="https://github.com/user-attachments/assets/2fc13606-17ba-4302-be05-c78c78c3d4cd" />
+<img width="1918" height="992" alt="image" src="https://github.com/user-attachments/assets/3bb77dc6-c6e4-4cf4-a1cb-cffec2908304" />
 
-## Installation & updates
-
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
-
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
-
-## Setup
-
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
-
-## Important Change with index.php
-
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
-
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Server Requirements
-
-PHP version 8.1 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-
-> [!WARNING]
-> - The end of life date for PHP 7.4 was November 28, 2022.
-> - The end of life date for PHP 8.0 was November 26, 2023.
-> - If you are still using PHP 7.4 or 8.0, you should upgrade immediately.
-> - The end of life date for PHP 8.1 will be December 31, 2025.
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+**USER**
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/02a4ee57-8f61-455c-b4c7-45dcb36439eb" />
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/c742ba65-2ae7-4222-80e1-272129815374" />
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/a5d93910-3c35-42ed-bf04-a5378108c8f3" />
+<img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/f182673a-995e-437b-893a-5dedc0282163" />
